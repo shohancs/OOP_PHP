@@ -1,6 +1,6 @@
 <?php  
 
-/*
+
 	// car class
 	class Car{
 		// OOP te Method. structure oriented a function
@@ -62,11 +62,10 @@
 	echo $carTwo->passengerSit . "<br>";
 	echo $carTwo->get_bodyColor() . "<br>";
 	echo $carTwo->get_engineCC() . "<br>";
-	echo $carTwo->get_regiNumber() . "<br><br>";
-*/
+	echo $carTwo->get_regiNumber() . "<br><be>";
 
 
-// Somporko define korbo. jemon driver chara gari cholbe na. car class ea koita driver acea
+	// Somporko define korbo. jemon driver chara gari cholbe na. car class ea koita driver acea
 	// Ekta class er sathe arekta class er somporko toiri kora inherirence. extend ta inheritence
 	// Driver Parent class
 	class Driver{
